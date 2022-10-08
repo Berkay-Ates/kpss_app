@@ -1,0 +1,7 @@
+
+
+typedef: MySelfTypeDef void Function(Parametre parametre);
+abstract class FonksiyonIcındeFonksiyon{
+
+    void RecursiveFunc(MySelfTypedef onChanged);
+}
